@@ -1,4 +1,6 @@
 iabbrev abbout about
+iabbrev abuot about
+iabbrev abotu about
 iabbrev aberation aberration
 iabbrev abilties abilities
 iabbrev abilty ability
@@ -8,7 +10,6 @@ iabbrev abondoning abandoning
 iabbrev abondons abandons
 iabbrev aborigene aborigine
 iabbrev abortificant abortifacient
-iabbrev abotu about
 iabbrev abreviate abbreviate
 iabbrev abreviated abbreviated
 iabbrev abreviation abbreviation
